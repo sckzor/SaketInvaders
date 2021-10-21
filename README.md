@@ -8,4 +8,4 @@ A game made for bullying Saket, our fateful leaders.
 ![img](EndGame.png)
 
 ## A partial game scene
-![img](PartialGame.png)
+![img](PartailGame.png)
