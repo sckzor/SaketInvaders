@@ -1,4 +1,11 @@
 # SaketInvaders
-I love you Saket &lt;3
+A game made for bullying Saket, our fateful leaders.
 
-[img]{NewGame.png}
+## A new game scene
+![img](NewGame.png)
+
+## A end game scene
+![img](EndGame.png)
+
+## A partial game scene
+![img](PartialGame.png)
